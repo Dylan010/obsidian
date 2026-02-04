@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Dinero"
             }
+          },
+          {
+            "id": "88280495333615ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sistema de como crear una startup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sistema de como crear una startup"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "541301d4f5f35d03",
+  "active": "88280495333615ec",
   "lastOpenFiles": [
-    "Core Dylan.md",
     "Dinero.md",
+    "sistema de como crear una startup.md",
+    "Core Dylan.md",
     "obsidian/Core Dylan.md",
     "obsidian",
     "Sin título.base",
