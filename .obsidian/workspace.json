@@ -78,15 +78,17 @@
             }
           },
           {
-            "id": "1ba3b8128ea7bf12",
+            "id": "9b3f5ea9e23eff27",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Blockchain.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.7"
+              "icon": "lucide-file",
+              "title": "Blockchain"
             }
           }
         ],
@@ -262,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ba3b8128ea7bf12",
+  "active": "9b3f5ea9e23eff27",
   "lastOpenFiles": [
-    "creacion de webs antigravyty.md",
     "opencode configuration.md",
+    "Blockchain.md",
+    "creacion de webs antigravyty.md",
     "sistema de como crear una startup.md",
     "Dinero.md",
     "Core Dylan.md",
