@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "opencode configuration"
             }
+          },
+          {
+            "id": "1ba3b8128ea7bf12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb41a409a67adc01",
+  "active": "1ba3b8128ea7bf12",
   "lastOpenFiles": [
     "creacion de webs antigravyty.md",
     "opencode configuration.md",
