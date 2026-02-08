@@ -3,4 +3,5 @@
 
 	Es una archivo digital compartido y desentralizado
 	Es una cadena de bloques 
-	Cada bloque contiene 3 elementos: 1 datos ,2 hash del bloque anterior 
+	Cada bloque contiene 3 elementos: 1 datos ,2 hash del bloque anterior ,3hash del bloque
+	Usa prueba de trabajo para calcular los 
